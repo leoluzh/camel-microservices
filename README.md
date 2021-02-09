@@ -1,2 +1,2 @@
 # camel-microservices
-Microservices with Apache Camel - Studing Integration Patterns
+Microservices with Apache Camel with Apache MQ - Studing Integration Patterns
